@@ -1,5 +1,15 @@
+.footer {
+    margin: 10px;
+    border: 20px solid white;
+    background-color: white;
+}
+
 p {
     color: rgb(136, 146, 176)
+}
+
+a.project-title {
+    color: rgb(255, 255, 255);
 }
 
 .my-5 {
@@ -151,7 +161,7 @@ a {
     margin-bottom: 50px;
     text-align: center;
     border: 1px solid #e6e6e6;
-    height: 200px;
+    height: 250px;
     position: relative;
     background: rgb(23, 42, 69);
 }
